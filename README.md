@@ -1,8 +1,19 @@
-# React + Vite
+## Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Overview
 
-Currently, two official plugins are available:
+A simple React app for tracking expenses and income. Users can:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add descriptions and amounts for each transaction.
+- View real-time updates on a dynamic chart.
+- See a list of transactions below the chart.
+
+## Tech Stack
+
+- **React**: For building the user interface.
+- **Chakra UI**: For styling and components.
+- **ApexCharts**: For creating charts.
+
+## Credits
+
+This project was made from a [YouTube tutorial](https://www.youtube.com/watch?v=5ZdHfJVAY-s&t=577s) (React 25 Projects - tutorial) by FreeCodeCamp.org.
