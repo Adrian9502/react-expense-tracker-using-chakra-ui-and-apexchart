@@ -14,6 +14,11 @@ A simple React app for tracking expenses and income. Users can:
 - **Chakra UI**: For styling and components.
 - **ApexCharts**: For creating charts.
 
+## Overview
+
+![image](./img.png)
+![image](./img1.png)
+
 ## Credits
 
 This project was made from a [YouTube tutorial](https://www.youtube.com/watch?v=5ZdHfJVAY-s&t=577s) (React 25 Projects - tutorial) by FreeCodeCamp.org.
